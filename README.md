@@ -23,3 +23,37 @@ Software design and development have always been my biggest passion, because of 
      <a href = "https://www.geeksforgeeks.org/user/iamqamartyagi/"><img src="https://img.shields.io/badge/-GeeksForGeeks-%23333?style=for-the-badge&logo=GeeksForGeekslogoColor=green" target="_blank"/></a>
   <a href = "https://www.codechef.com/users/neat_peace_05"><img src="https://img.shields.io/badge/-Codechef-%23333?style=for-the-badge&logo=codechef&logoColor=white" target="_blank"/></a>
 </p>
+
+## Languages & Tools
+
+<h3 align="left">Front-end</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
+  </a>
+</p>
+<h3 align="left">Backend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
+  </a>
+</p>
+<h3 align="left">Mobile</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift,kotlin,java" />
+  </a>
+</p>
+<h3 align="left">DataBase</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,graphql,mongodb,mysql,postgres,sqlite" />
+  </a>
+</p>
+<h3 align="left">Tools</h3>
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
+  </a>
+</p>
+
