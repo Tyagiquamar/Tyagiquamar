@@ -29,13 +29,13 @@ Software design and development have always been my biggest passion, because of 
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,js,ts,react,tailwind" />
   </a>
 </p>
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,express,nextjs,nestjs,nodejs,fastapi" />
   </a>
 </p>
 <h3 align="left">Mobile</h3>
