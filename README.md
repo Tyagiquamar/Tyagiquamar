@@ -58,6 +58,8 @@ Software design and development have always been my biggest passion, because of 
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,figma,github,bitbucket,nginx,postman,visualstudio,vscode,xd" />
   </a>
 </p>
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
-  ![LeetCode Stats](https://leetcode.card.workers.dev/mohdquamartyagi?theme=dark&font=baloo&extension=null)
+<p>
+      ![LeetCode Stats](https://leetcode.card.workers.dev/mohdquamartyagi?theme=dark&font=baloo&extension=null)
+
+</p>
 
