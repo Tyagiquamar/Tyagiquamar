@@ -6,7 +6,7 @@
 
 Software design and development have always been my biggest passion, because of its ability to transform idea into reality with the essence of efficiency! I particularly find it purposeful therefore enjoyable when learning and building with different brains as a team towards a shared vision. I am eager to use my technological skills and creativity to provide service/product to fill in the gaps in this society and make this world a better place.</p>
 
-## Skills
+## Skills 
 
 - <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, C++, Rust
 - <b>Web Frontend</b> : React.js, Next.js
@@ -55,8 +55,7 @@ Software design and development have always been my biggest passion, because of 
  <p>
     <img src="https://leetcode.card.workers.dev/mohdquamartyagi?theme=dark&font=baloo&extension=null" alt="LeetCode Stats">
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Tyagiquamar
-&show_icons=true&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=Tyagiquamar&show_icons=true&theme=radical">
 
 
 
