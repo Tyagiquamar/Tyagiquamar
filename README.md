@@ -35,25 +35,19 @@ Software design and development have always been my biggest passion, because of 
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,express,nextjs,nestjs,nodejs,fastapi" />
-  </a>
-</p>
-<h3 align="left">Mobile</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift,kotlin,java" />
+    <img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,fastapi" />
   </a>
 </p>
 <h3 align="left">DataBase</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,graphql,mongodb,mysql,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres" />
   </a>
 </p>
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,figma,github,bitbucket,nginx,postman,visualstudio,vscode,xd" />
   </a>
 </p>
 
