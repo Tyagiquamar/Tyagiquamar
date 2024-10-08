@@ -59,7 +59,7 @@ Software design and development have always been my biggest passion, because of 
   </a>
 </p>
 <p>
-      ![LeetCode Stats](https://leetcode.card.workers.dev/mohdquamartyagi?theme=dark&font=baloo&extension=null)
-
+    <img src="https://leetcode.card.workers.dev/mohdquamartyagi?theme=dark&font=baloo&extension=null" alt="LeetCode Stats">
 </p>
+
 
