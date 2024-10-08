@@ -54,7 +54,8 @@ Software design and development have always been my biggest passion, because of 
 </p>
  <p>
     <img src="https://leetcode.card.workers.dev/mohdquamartyagi?theme=dark&font=baloo&extension=null" alt="LeetCode Stats">
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyagiquamar&layout=pie)](https://github.com/Tyagiquamar)
+
 
 
