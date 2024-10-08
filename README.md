@@ -18,7 +18,7 @@ Software design and development have always been my biggest passion, because of 
 
 ## Competitive Programming Profile
 <p align="left">
-  <a href = "https://leetcode.com/u/mohdquamartyagi/ "><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=gmail&logoColor=yellow" target="_blank"/></a>
+  <a href = "https://leetcode.com/u/mohdquamartyagi/ "><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=Leetcode&logoColor=yellow" target="_blank"/></a>
   <a href = "https://join.skype.com/invite/FTt0mmHoS1V2"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" target="_blank"/></a>
   <a href = "https://join.slack.com/t/danielsworksp-rhq1949/shared_invite/zt-25ythaztd-qka1KoDvdxBwhPJAOhxrHQ"><img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=white" target="_blank"/></a>
 </p>
