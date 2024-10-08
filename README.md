@@ -38,6 +38,12 @@ Software design and development have always been my biggest passion, because of 
     <img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,fastapi" />
   </a>
 </p>
+<h3 align="left">Deveops</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker, kubernetes, git, linux" />
+  </a>
+</p>
 <h3 align="left">DataBase</h3>
 <p align="left">
   <a href="https://skillicons.dev">
