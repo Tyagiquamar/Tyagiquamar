@@ -25,11 +25,6 @@ Software design and development have always been my biggest passion, because of 
   <p>
     <img src="https://leetcode.card.workers.dev/mohdquamartyagi?theme=dark&font=baloo&extension=null" alt="LeetCode Stats">
 </p>
-<p>
-    <img src="https://codeforces.card.workers.dev/infernalshadow0313" alt="Codeforces Stats - Infernal Shadow0313">
-</p>
-
-  
 </p>
 
 
