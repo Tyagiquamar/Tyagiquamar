@@ -29,7 +29,7 @@ Software design and development have always been my biggest passion, because of 
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,js,ts,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,tailwind,bootstrap" />
   </a>
 </p>
 <h3 align="left">Backend</h3>
