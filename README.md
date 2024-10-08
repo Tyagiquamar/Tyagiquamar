@@ -20,5 +20,6 @@ Software design and development have always been my biggest passion, because of 
 <p align="left">
   <a href = "https://leetcode.com/u/mohdquamartyagi/ "><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=Leetcode&logoColor=yellow" target="_blank"/></a>
   <a href = "https://codeforces.com/profile/infernalshadow0313"><img src="https://img.shields.io/badge/-Codeforces-%23333?style=for-the-badge&logo=codeforceslogoColor=blue" target="_blank"/></a>
+     <a href = "https://www.geeksforgeeks.org/user/iamqamartyagi/"><img src="https://img.shields.io/badge/-GeeksForGeeks-%23333?style=for-the-badge&logo=GeeksForGeekslogoColor=green" target="_blank"/></a>
   <a href = "https://www.codechef.com/users/neat_peace_05"><img src="https://img.shields.io/badge/-Codechef-%23333?style=for-the-badge&logo=codechef&logoColor=white" target="_blank"/></a>
 </p>
