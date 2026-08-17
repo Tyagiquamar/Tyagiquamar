@@ -1,61 +1,26 @@
-<h2> Hi, I'm <a href="https://github.com/Tyagiquamar" target="_blank">Quamar</a>
-    <img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px">
-</h2>
+## Hi, I'm Quamar 👋
 
-<p>Hello! I'm Quamar, an passionate software engineer.
+**Founding Engineer at [Takkada](https://takkada.com)**, building **PaySaathi** — a standalone Tally-replacement accounting & ERP platform (Flutter · Supabase · PostgreSQL · Next.js). 1,000+ commits and counting across the app, backend, and admin dashboard.
 
-Software design and development have always been my biggest passion, because of its ability to transform idea into reality with the essence of efficiency! I particularly find it purposeful therefore enjoyable when learning and building with different brains as a team towards a shared vision. I am eager to use my technological skills and creativity to provide service/product to fill in the gaps in this society and make this world a better place.</p>
+Previously **SDE-1 at Zomato**, optimizing high-scale CX services in Go (5x p90 latency improvement).
 
-## Skills 
+### Competitive Programming
 
-- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, C++, Rust
-- <b>Web Frontend</b> : React.js, Next.js
-- <b>Backend</b> : Node.js, Express.js
-- <b>Database</b> : MySQL, MongoDB, PostgreSQL
-- <b>Libraries</b> : React Redux, TailwindCSS, Material UI, AntDesigns,
-- <b>Deveops</b> : Linux, Docker, Kubernetes, Git, 
-- <b>Tools</b> : Github, Jira, BitBucket, Postman, VS Code
+- **Codeforces**: Candidate Master (2038) — [altair_45](https://codeforces.com/profile/altair_45)
+- **LeetCode**: Guardian, 2400+ (top 0.6%) — [Altair_4](https://leetcode.com/u/Altair_4/)
+- **CodeChef**: 5★ (2017) — [tyagiquamar](https://www.codechef.com/users/tyagiquamar)
 
-## Competitive Programming Profile
-<p align="left">
-  <a href = "https://leetcode.com/u/mohdquamartyagi/ "><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=Leetcode&logoColor=yellow" target="_blank"/></a>
-  <a href = "https://codeforces.com/profile/infernalshadow0313"><img src="https://img.shields.io/badge/-Codeforces-%23333?style=for-the-badge&logo=codeforceslogoColor=blue" target="_blank"/></a>
-     <a href = "https://www.geeksforgeeks.org/user/iamqamartyagi/"><img src="https://img.shields.io/badge/-GeeksForGeeks-%23333?style=for-the-badge&logo=GeeksForGeekslogoColor=green" target="_blank"/></a>
-  <a href = "https://www.codechef.com/users/neat_peace_05"><img src="https://img.shields.io/badge/-Codechef-%23333?style=for-the-badge&logo=codechef&logoColor=white" target="_blank"/></a>
- 
-</p>
+### Stack
 
+- **Languages**: Go · TypeScript · C++ · Python · Dart · SQL
+- **Platforms**: Flutter · Next.js · Node.js · gRPC · Supabase
+- **Infra & Data**: PostgreSQL · Redis · Docker · AWS · GitHub Actions
 
-## Languages & Tools
+### Selected Work
 
-<h3 align="left">Front-end</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,tailwind,bootstrap" />
-  </a>
-</p>
-<h3 align="left">Backend</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nextjs,nodejs,fastapi" />
-  </a>
-</p>
-<h3 align="left">Deveops</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux" />
-  </a>
-</p>
-<h3 align="left">DataBase</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres" />
-  </a>
-</p>
- <p>
-    <img src="https://leetcode.card.workers.dev/mohdquamartyagi?theme=dark&font=baloo&extension=null" alt="LeetCode Stats">
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=Tyagiquamar&show_icons=true&theme=merko">
+- **[QuantXecute](https://github.com/Tyagiquamar/QuantXecute)** — real-time trade-cost estimator for crypto futures (C++, OKX WebSocket L2 orderbook)
+- **[AI Interviewer Agent](https://github.com/Tyagiquamar/ai-interviewer-agent)** — structured AI technical interviewer with transcript-grounded evaluation reports
+- **[NexLink](https://github.com/Tyagiquamar/NexLink-URL-Shortener)** — URL shortener with real-time analytics
+- **[order-book-sim](https://github.com/Tyagiquamar/order-book-sim)** — mini limit order book simulator
 
-
-
+📫 [mohdquamartyagi@gmail.com](mailto:mohdquamartyagi@gmail.com) · [LinkedIn](https://linkedin.com/in/mohd-quamar-tyagi)
