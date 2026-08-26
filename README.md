@@ -1,6 +1,6 @@
 <h2>
   Hi, I'm <a href="https://github.com/Tyagiquamar" target="_blank">Quamar</a>
-
+  <img src="https://media.tenor.com/-Y7FM7VQEOAAAAAj/phoenix.gif" width="55px" alt="Fire Phoenix">
 </h2>
 
 <p>
@@ -152,14 +152,14 @@ Current contributions also span:
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Tyagiquamar&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tyagiquamar&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p>
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Tyagiquamar&theme=github-compact&hide_border=true"
+    src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Tyagiquamar&theme=react-dark&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
@@ -170,7 +170,7 @@ Current contributions also span:
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyagiquamar&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tyagiquamar&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages"
   />
 </p>
