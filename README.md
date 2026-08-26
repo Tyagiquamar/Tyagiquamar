@@ -1,6 +1,6 @@
 <h2>
   Hi, I'm <a href="https://github.com/Tyagiquamar" target="_blank">Quamar</a>
-<img src="https://tenor.com/view/phoenix-gif-25143212" width="48px" height="48px" alt="Phoenix">
+
 </h2>
 
 <p>
