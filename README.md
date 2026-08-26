@@ -1,6 +1,11 @@
 <h2>
   Hi, I'm <a href="https://github.com/Tyagiquamar" target="_blank">Quamar</a>
-  <img src="./assets/fire-falcon.gif" width="48px" height="48px" alt="Fire Falcon">
+ <img
+  src="https://i.pinimg.com/originals/5f/6f/1f/5f6f1f2233f59f8a0463e0e282c3e0c6.gif"
+  width="55px"
+  height="55px"
+  alt="Fire Phoenix"
+>
 </h2>
 
 <p>
