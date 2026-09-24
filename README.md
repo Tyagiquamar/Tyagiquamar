@@ -45,5 +45,4 @@ Recent contributions include correctness and systems fixes in projects such as S
 ## Connect
 
 - Portfolio: https://quamar.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/mohdirshad1/
 - Email: mohdquamartyagi@gmail.com
